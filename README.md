@@ -24,9 +24,16 @@ Simply run the `.exe` file as **Administrator**.
 ---
 
 ## Main Menu Options
-**1. Run Activator
-2. Active Done
-3. Exit **
+
+**1. Run Activator**  
+Activates necessary modules in the background for an **unlimited Exitlag trial**. Runs automatically (~30 seconds) and restarts PC.
+
+**2. Active Done**  
+Cleans traces after activation. **Must run after Option 1**. Completes in ~30 seconds and restarts PC.
+
+**3. Exit**  
+Closes the tool.
+
 
 ### Option 1 – Run Activator
 - Activates necessary modules in the background for an **unlimited trial**.  
@@ -40,8 +47,7 @@ Simply run the `.exe` file as **Administrator**.
 - **Must run this after Option 1**.  
 - The task completes in ~30 seconds and your PC will automatically **restart**.
 
-### Option 3 – Exit
-- Closes the tool.
+
 
 ---
 
