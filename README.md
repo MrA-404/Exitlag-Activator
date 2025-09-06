@@ -1,9 +1,21 @@
 # Exitlag Trial Activator TOOL  – Unlimited Exitlag Trial
 
+# ⚠️ Warning
+
+**Must run Option 2 after Option 1**  
+
+After using **Option 1**, your PC will restart.  
+Install Exitlag and activate your account first.  
+**Then**, run **Option 2** to clean traces.  
+Do **not** open any game before running Option 2.
+
 ## Overview
 This tool helps you activate and get an **unlimited Exitlag trial**.  
 No manual installation or additional setup is required.  
 Simply run the `.exe` file as **Administrator**.
+
+
+
 
 ---
 
